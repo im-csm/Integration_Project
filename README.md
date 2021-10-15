@@ -1,2 +1,7 @@
 # Integration_Project
-Cumulative project created to demonstrate the areas and topics covered in COP 3003 (Programming 2).
+
+--------------------------------------------------------------------------------------------------
+
+This is a cumulative project created to demonstrate the C++ OOP topics covered in COP 3003.
+
+More updated on the project coming soon...
